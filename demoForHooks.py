@@ -4,4 +4,6 @@ def my_function():
     c = 7
     d = a + b + c
     return d
+
+
 my_function()
