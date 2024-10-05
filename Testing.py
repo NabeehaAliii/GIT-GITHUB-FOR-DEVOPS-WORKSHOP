@@ -2,6 +2,7 @@
 This module contains a simple demonstration function.
 """
 
+
 def hello():
     """
     This function returns a greeting message.
