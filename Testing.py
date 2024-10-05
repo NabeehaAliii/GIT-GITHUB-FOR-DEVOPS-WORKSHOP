@@ -1,8 +1,13 @@
+"""
+This module contains a simple demonstration function.
+"""
+
 def hello():
     """
-    This is demo
+    This function returns a greeting message.
     """
     return "Hello"
 
 
-print("Hello, I am Nabeeha! I am new to DevOps Journey")
+if __name__ == "__main__":
+    print("Hello, I am Nabeeha! I am new to DevOps Journey")
