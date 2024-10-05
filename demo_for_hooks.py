@@ -2,6 +2,7 @@
 This module demonstrates simple addition of numbers.
 """
 
+
 def my_function():
     """
     Adds three predefined numbers and returns their sum.
