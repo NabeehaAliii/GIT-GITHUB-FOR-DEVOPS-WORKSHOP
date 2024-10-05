@@ -38,9 +38,13 @@
   38 git remote add origin https://github.com/NabeehaAliii/GIT-GITHUB-FOR-DEVOPS-WORKSHOP.git
   39 git remote -v
   40 git remote set-url origin
+  41 git remote set-url origin http://@github.com/NabeehaAliii/GIT-GITHUB-FOR-DEVOPS-WORKSHOP.git
+  42 git remote -v
   43 git push origin master
   44 git push origin master
-  45 git remote -v  
+  45 git remote -v
+  46 git push origin master
+  47 git remote set-url origin https://@github.com/NabeehaAliii/GIT-GITHUB-FOR-DEVOPS-WORKSHOP.git
   48 git remote -v
   49 git push origin master
   50 git remote -v
